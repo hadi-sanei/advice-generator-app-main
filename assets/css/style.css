@@ -28,6 +28,15 @@ body {
     height: 100vh;
 }
 
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
 main {
     max-width: 474px;
     width: 100%;
